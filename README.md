@@ -1,5 +1,5 @@
 # TuneSuggest
-![Project Banner](./public/assets/images/ProjectBanner.png)
+![Project Banner](./public/images/ProjectBanner.png)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
